@@ -1,0 +1,30 @@
+
+|
+java:S1192Ï"GDefine a constant instead of duplicating this literal "caseNo" 3 times.(¸¥ã½şÿÿÿÿH‹/RCRITICALZ
+CODE_SMELL
+€
+java:S1192½"KDefine a constant instead of duplicating this literal "created_on" 3 times.(¢Ë—İùÿÿÿÿH/RCRITICALZ
+CODE_SMELL
+R
+java:S2201u"(The return value of "size" must be used.(Û¿ÆªüÿÿÿÿH“/RMAJORZBUG
+
+java:S6204€"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹H”/RMAJORZ
+CODE_SMELL
+
+java:S6204Œ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹H•/RMAJORZ
+CODE_SMELL
+
+java:S6204Ú"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖßH–/RMAJORZ
+CODE_SMELL
+n
+java:S1854®"<Remove this useless assignment to local variable "existing".(ª”‹úÿÿÿÿH—/RMAJORZ
+CODE_SMELL
+_
+java:S1481®"-Remove this unused "existing" local variable.(ª”‹úÿÿÿÿH˜/RMINORZ
+CODE_SMELL
+
+java:S6204ò"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖßHš/RMAJORZ
+CODE_SMELL
+
+java:S6204ƒ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖßH›/RMAJORZ
+CODE_SMELL

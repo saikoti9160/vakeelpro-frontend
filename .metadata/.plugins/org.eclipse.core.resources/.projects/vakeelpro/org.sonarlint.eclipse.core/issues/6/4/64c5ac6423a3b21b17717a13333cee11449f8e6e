@@ -1,0 +1,13 @@
+
+
+java:S1192]"[Define a constant instead of duplicating this literal "Client not found with id: " 3 times.(ÐÃ¬ùÿÿÿÿHÖ?RCRITICALZ
+CODE_SMELL
+x
+java:S1192J"JDefine a constant instead of duplicating this literal "Error: {}" 5 times.(ë¾ÐHÚ?RCRITICALZ
+CODE_SMELL
+
+java:S6204É"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹Hà?RMAJORZ
+CODE_SMELL
+k
+java:S1612Ý">Replace this lambda with method reference 'BaseEntity::getId'.(÷„ÞŠHá?RMINORZ
+CODE_SMELL

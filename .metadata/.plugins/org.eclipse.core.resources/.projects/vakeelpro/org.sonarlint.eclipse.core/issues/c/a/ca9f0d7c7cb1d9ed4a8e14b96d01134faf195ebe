@@ -1,0 +1,19 @@
+
+f
+java:S1118":Add a private constructor to hide the implicit public one.(ï¬ô‡Hë.RMAJORZ
+CODE_SMELL
+n
+java:S2479":Remove the non-escaped \u0009 character from this literal.(¤¹ÑœüÿÿÿÿHì.RCRITICALZ
+CODE_SMELL
+X
+java:S5664!",Use only spaces or only tabs for indentation(ƒÜÉƒHí.RMAJORZ
+CODE_SMELL
+]
+java:S5664@",Use only spaces or only tabs for indentation(ÔµÛ¢øÿÿÿÿHî.RMAJORZ
+CODE_SMELL
+W
+java:S5664a",Use only spaces or only tabs for indentation(‡Õ‘/Hï.RMAJORZ
+CODE_SMELL
+]
+java:S5664l",Use only spaces or only tabs for indentation(¢›´ÌûÿÿÿÿHð.RMAJORZ
+CODE_SMELL

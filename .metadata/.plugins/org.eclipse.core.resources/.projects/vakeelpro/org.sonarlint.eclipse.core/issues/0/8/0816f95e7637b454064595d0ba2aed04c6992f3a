@@ -1,0 +1,7 @@
+
+Ž
+java:S1192K"ZDefine a constant instead of duplicating this literal "Court not found with id: " 3 times.(‘éüžøÿÿÿÿHÑ?RCRITICALZ
+CODE_SMELL
+~
+java:S6204r"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹HÕ?RMAJORZ
+CODE_SMELL
